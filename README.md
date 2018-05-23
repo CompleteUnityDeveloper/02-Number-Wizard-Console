@@ -11,3 +11,16 @@ Basic introduction to coding using C# (ref: NC_CUD)
 
 ## Lecture List
 Here are the lectures of the course for this section. In future sections you will also be able to see all the code we add and remove in each lecture, but more about that later!
+
+
+### 1 Welcome To Number Wizard Console ###
+
+**In this video (objectives)…**
+
+1. Overview of this section
+2. Code is mostly the same as the original code
+3. Let's get started!
+
+
+**After watching (learning outcomes)…**
+Ready and raring to start.
