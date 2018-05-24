@@ -24,3 +24,16 @@ Here are the lectures of the course for this section. In future sections you wil
 
 **After watching (learning outcomes)…**
 Ready and raring to start.
+
+
+### 2 Print To Console With Debug.Log() ###
+
+**In this video (objectives)…**
+
+1. Understand the game flow for the simple game we are making.
+2. Use Debug.Log() to print our welcome to the player
+3. Add three additional statements to give the player the requirements
+
+
+**After watching (learning outcomes)…**
+Be able to print to the console using Debug.Log().
