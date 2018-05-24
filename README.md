@@ -37,3 +37,16 @@ Ready and raring to start.
 
 **After watching (learning outcomes)…**
 Be able to print to the console using Debug.Log().
+
+
+### 3 Introducing Variables ###
+
+**In this video (objectives)…**
+
+1. Discuss that variables are like boxes which store data.
+2. Create an integer variable to store our maximum guess value.
+3. Create an integer variable to store our minimum guess value.
+
+
+**After watching (learning outcomes)…**
+Be capable of creating an integer type variable.
