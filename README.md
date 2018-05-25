@@ -65,3 +65,16 @@ Be capable of creating an integer type variable.
 
 **After watching (learning outcomes)…**
 Understand how to recognise player input using Input.GetKeyDown().
+
+
+### 5 Using if, else if & else ###
+
+**In this video (objectives)…**
+
+1. Consider the problem we have of multiple key presses being possible.
+2. Discuss the difference between if, else if & else conditional statements.
+3. Implement an approach that makes our key presses mutually exclusive of one another.
+
+
+**After watching (learning outcomes)…**
+Use if and else if statements to make key presses mutually exclusive.
