@@ -50,3 +50,18 @@ Be able to print to the console using Debug.Log().
 
 **After watching (learning outcomes)…**
 Be capable of creating an integer type variable.
+
+
+### 4 Respond To Player Input ###
+
+**In this video (objectives)…**
+
+1. Problem solving discussion using Unity docs.
+2. Use Input.GetKeyDown() to recognise when a key is pressed.
+3. Use the KeyCode keyword to determine which key is pressed.
+4. Discuss white space, code blocks and bracketing. 
+5. Introduce commenting.
+
+
+**After watching (learning outcomes)…**
+Understand how to recognise player input using Input.GetKeyDown().
