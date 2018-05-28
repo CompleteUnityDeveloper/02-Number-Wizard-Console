@@ -107,3 +107,18 @@ Be cool with how scope applies to declaring and using variables.
 **After watching (learning outcomes)…**
 
 Implement a simple calculation that updates our guess based upon player feedback.
+
+
+### 8 Functions & Encapsulating ###
+
+**In this video (objectives)…**
+
+1. Create a new function for StartGame().
+2. Create a new function for NextGuess().
+3. Discussion encapsulating as it relates to C#.
+4. Finish our game.
+
+
+**After watching (learning outcomes)…**
+
+Create your first functions and finish off our simple game.
