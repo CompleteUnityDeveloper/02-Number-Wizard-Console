@@ -90,4 +90,20 @@ Use if and else if statements to make key presses mutually exclusive.
 
 
 **After watching (learning outcomes)…**
+
 Be cool with how scope applies to declaring and using variables.
+
+
+### 7 Calculate Guess Variable ###
+
+**In this video (objectives)…**
+
+1. Implement the simple calculation to guess the midpoint of our min and max.
+2. Fix an issue with the maximum guess not reaching 1000.
+3. Tidy up our text.
+4. Use github to access our code updates and lecture changes.
+
+
+**After watching (learning outcomes)…**
+
+Implement a simple calculation that updates our guess based upon player feedback.
