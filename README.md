@@ -78,3 +78,16 @@ Understand how to recognise player input using Input.GetKeyDown().
 
 **After watching (learning outcomes)…**
 Use if and else if statements to make key presses mutually exclusive.
+
+
+### 6 Scope And Context Of Variables ###
+
+**In this video (objectives)…**
+
+1. Discuss how C# is organised / grouped.
+2. Address the problem of scope and with our variables not being accessible.
+3. Create a guess variable.
+
+
+**After watching (learning outcomes)…**
+Be cool with how scope applies to declaring and using variables.
