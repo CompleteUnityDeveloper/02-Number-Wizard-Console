@@ -122,3 +122,17 @@ Implement a simple calculation that updates our guess based upon player feedback
 **After watching (learning outcomes)…**
 
 Create your first functions and finish off our simple game.
+
+
+### 9 Number Wizard Console Wrap Up ###
+
+**In this video (objectives)…**
+
+1. Great work for completing this section.
+2. You're not supposed to understand everything yet.
+3. Keep pushing forward into the next section.
+
+
+**After watching (learning outcomes)…**
+
+Celebrate completing this section and push on to the next one.
