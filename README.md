@@ -52,6 +52,17 @@ Be able to print to the console using Debug.Log().
 Be capable of creating an integer type variable.
 
 
+### 3b Fixing Visual Studio Problems ###
+
+**In this video (objectives)…**
+
+1. Checklist for troubleshooting if Visual Studio seems to be not working properly.
+
+
+**After watching (learning outcomes)…**
+Armed with knowledge on how to fix Visual Studio problems.
+
+
 ### 4 Respond To Player Input ###
 
 **In this video (objectives)…**
